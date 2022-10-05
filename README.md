@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0x-Q
-- 👀 I’m interested in blockchain technology and marchine learning development
-- 🌱 I’m currently learning JS
+- 👀 I'm interested in blockchain technology
+- 🌱 I’m learning JS,Front-end web dev
 - 💞️ I’m looking to collaborate on any project based on my above interests.
 - 📫 How to reach me ...
 
