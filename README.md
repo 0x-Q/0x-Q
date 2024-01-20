@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @0x-Q
+- 👋 Hi, I’m @0x-Q; A Computer Engineering Grad 3.67/5.0 CGPA
 - 👀 I'm interested in blockchain technology
-- 🌱 I’m learning JS,Front-end web dev,Account abstraction
+- 🌱 I’m learning JS,Front-end web dev,Account abstraction,Prompt Engineering
 - 💞️ I’m looking to collaborate on any project based on my above interests.
 - 📫 How to reach me ...
 
